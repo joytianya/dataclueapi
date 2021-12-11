@@ -1,2 +1,2 @@
-./second_step/prev_train_models/*
-./second_step/model_output/cic/*
+second_step/prev_train_models/*
+second_step/model_output/cic/*
