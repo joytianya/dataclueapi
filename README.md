@@ -17,6 +17,7 @@ sh run.sh
 cd second_step/bert
 sh run_cic.sh
 ```
+输出在second_step/model_output/cic下面
 3）预测接口
 输入：一条数据，一个模型
 输出：一条数据，带上标签
@@ -24,3 +25,4 @@ sh run_cic.sh
 cd third_step
 sh run_cic_test.sh
 ```
+输出结果在third_step/data/cic/test_results_label.json
