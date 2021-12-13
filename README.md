@@ -17,7 +17,8 @@ sh run.sh
 cd second_step/bert
 sh run_cic.sh
 ```
-输出在second_step/model_output/cic下面
+输出在second_step/model_output/cic下面  
+
 3）预测接口
 输入：一条数据，一个模型
 输出：一条数据，带上标签
